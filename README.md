@@ -32,8 +32,8 @@ Flags:
   -i                           Initialize RN
 
 Special sequences in text:
-  {{t}}               Tab
-  {{n}}               New line
+  {{t}} - Tab
+  {{n}} - New line
 
 You can also pipe text from stdin:
   echo 'Hello' | rn -n test
